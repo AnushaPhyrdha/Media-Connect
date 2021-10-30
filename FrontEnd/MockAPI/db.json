@@ -1,0 +1,17 @@
+{
+    "posts": [
+      { "id": 1, "title": "Rockey", "author": "Anusha" ,"image":"https://i.insider.com/5484d9d1eab8ea3017b17e29?width=600&format=jpeg&auto=webp"},
+      { "id": 2, "title": "Blue Blue Blue....", "author": "Rama" ,"image":"https://i.pinimg.com/originals/02/e9/36/02e9369be42adc6f154f207c38fa8eb3.jpg"},
+      { "id": 3, "title": "Let's go together", "author": "Rao" ,"image":"https://images.pexels.com/photos/3278215/pexels-photo-3278215.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"},
+      { "id": 4, "title": "Best Ever", "author": "Kiran" ,"image":"https://hi-static.z-dn.net/files/d4e/97d4706f6c5f3ea5e9f87a623b6a7372.jpg"},
+      { "id": 4, "title": "Shine on", "author": "Santhosh" ,"image":"https://images.all-free-download.com/images/graphicthumb/happy_new_year_explore_514976.jpg"}
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment on londan", "postId": 1 },
+      { "id": 1, "body": "some comment on spain", "postId": 2 },
+      { "id": 1, "body": "some comment on india", "postId": 3 },
+      { "id": 1, "body": "some comment on indonasia", "postId": 4 },
+      { "id": 1, "body": "some comment on India", "postId": 4 }
+    ],
+    "profile": { "name": "typicode" }
+  }

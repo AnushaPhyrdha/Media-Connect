@@ -1,0 +1,49 @@
+p{
+    opacity: 100%;
+    color: solid black !important;
+    font-size: large;
+}
+.card{
+    font-family: 'Times New Roman', Times, serif !important;
+    letter-spacing: 0px !important;
+    width: 25rem;
+    height: 27 rem;
+    padding: auto;
+    color: black !important;
+    text-align: left;
+    opacity: 100%;
+    margin-left: 0px;
+}
+small{
+    font-size: 15px;
+    color: #707070;
+    opacity: 1;
+    letter-spacing: 0px;
+}
+.card-text{
+    font-family:'Times New Roman', Times, serif !important;
+    font-size: 17px !important;
+    letter-spacing: 0px;
+    padding: auto;
+    color: black;
+
+}
+.navbar-brand{
+    justify-content: center;
+}
+.Date{
+    font-family: 'Times New Roman', Times, serif !important;
+    letter-spacing: 0px;
+    padding: auto;
+    color: black;
+}
+.img-below {
+    padding-top: 0px;
+}
+.love{
+    padding-right: 4px;
+    padding-left: 0px;
+}
+.send{
+    padding-left: 4px;
+}
